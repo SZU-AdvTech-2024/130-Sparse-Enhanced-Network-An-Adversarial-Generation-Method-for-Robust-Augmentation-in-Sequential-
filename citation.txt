@@ -1,0 +1,9 @@
+@inproceedings{REPO130,
+    author = "Chen, Junyang and Zou, Guoxuan and Zhou, Pan and Yirui, Wu and Chen, Zhenghan and Su, Houcheng and Wang, Huan and Gong, Zhiguo",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "8",
+    pages = "8283--8291",
+    title = "{Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation}",
+    volume = "38",
+    year = "2024"
+}
