@@ -1,0 +1,5 @@
+torch
+faiss-gpu
+scipy
+tqdm
+nni
